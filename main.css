@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+:root {
+  --violet: hsl(263, 55%, 52%);
+  --dark-blue: hsl(217, 19%, 35%);
+  --black-blue: hsl(219, 29%, 14%);
+  --light-gray: hsl(0, 0%, 81%);
+  --gray-blue: hsl(210, 46%, 95%);
+}
+
+html {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.container {
+  max-width: 69.375rem;
+}
+.card {
+  padding: 1.5rem;
+}
