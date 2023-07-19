@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AceDub/testimonials-grid)
-- Live Site URL: [https://acedub.github.io/testimonials-grid/](https://acedub.github.io/testimonials-grid/)
+- Solution URL: [GitHub](https://github.com/awongdev/testimonials-grid)
+- Live Site URL: [https://awongdev.github.io/testimonials-grid/](https://awongdev.github.io/testimonials-grid/)
 
 ## My process
 
@@ -52,4 +52,4 @@ Took on this project to practice CSS grid layouts.
 ## Author
 
 - Frontend Mentor - [@AceDub](https://www.frontendmentor.io/profile/AceDub)
-- GitHub - [@AceDub](https://github.com/AceDub)
+- GitHub - [@awongdev](https://github.com/awongdev)
